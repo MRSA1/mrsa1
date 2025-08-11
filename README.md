@@ -18,7 +18,7 @@
 ---
 
 >  _"Collaboration is the main force to go forward, and it's the most important thing that what people of circle I am with"_  
-> — [Rad Sarar]
+
 <h2 align="left">Hi 👋! I'm Rad Sarar </h2>
 
 ###
