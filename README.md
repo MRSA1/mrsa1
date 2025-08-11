@@ -64,6 +64,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MRSA1/MRSA1/output/snake.svg" alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcode&psig=AOvVaw3YxbmRtv5vJM_j8Hj-KZuc&ust=1755014393940000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODX85-Qg48DFQAAAAAdAAAAABAc" />
 
-###
+
+
